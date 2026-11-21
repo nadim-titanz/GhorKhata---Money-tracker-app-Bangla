@@ -1,0 +1,6 @@
+{
+  "name": "Ghor Khata",
+  "description": "Family household tracker for refills, farm milk delivery and recurring bills",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
